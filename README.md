@@ -1,4 +1,13 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=734F96&width=435&lines=Theoretical+Physics+%40+University+of+York;Simulation+%26+Scientific+Computing;Fortran+%7C+Python+%7C+C)](https://git.io/typing-svg)
+
 I am a Theoretical Physics student at the University of York. I mainly spend time on simulation based programming for my degree but in my free time I will do just about anything, with a special interest in making things work for my Macbook
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jofl1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jofl1&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ## Languages
 
