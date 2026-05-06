@@ -1,4 +1,4 @@
-I am a Theoretical Physics student at the University of York. I mainly spend time on simulation based programming for my degree but in my free time I will do just about anything, with a special interest in making things work for my Macbook
+I am a Theoretical Physics student at the University of York. I mainly spend time on simulation based programming for my degree but in my free time I will do just about anything, with a keen interest in making portable processes for appleOS
 
 ## Languages
 
