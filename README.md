@@ -1,5 +1,3 @@
-I am a Theoretical Physics student at the University of York. I mainly spend time on simulation based programming for my degree but in my free time I will do just about anything, with a keen interest in making portable processes for appleOS
-
 ## Languages
 
 ![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
